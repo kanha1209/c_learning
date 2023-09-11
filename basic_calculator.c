@@ -4,7 +4,7 @@ void main() {
     char sign;
     
     printf("Enter sign: ");
-    scanf("%s", &sign);
+    scanf("%c", &sign);
     
     printf("You have entered this sign: %c \n", sign);
     
